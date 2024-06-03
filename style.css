@@ -20,7 +20,7 @@ nav h1{
     font-size: 2em;
 }
 nav span{
-    color:#000;
+    color:#fff;
     background-color:#b72e2e;
     padding: 10px 20px;
     border-radius: 5px;
@@ -62,7 +62,7 @@ nav span{
 }
 
 #hero span{
-    color:#000;
+    color:#fff;
     background-color:#b72e2e;
     padding: 10px 20px;
     border-radius: 5px;
@@ -308,7 +308,7 @@ i + p{
 }
 
 #free{
-    color:#000;
+    color:#fff;
     background-color:#b72e2e;
     padding: 10px 20px;
     border-radius: 5px;
