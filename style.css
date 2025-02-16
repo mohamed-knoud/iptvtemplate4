@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-family:Helvetica;
 }
-.slick-track img{
+#slider .slick-track img{
     padding:20px;
 }
 body{
